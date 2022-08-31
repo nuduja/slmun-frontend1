@@ -1,1 +1,0 @@
-# slmun-frontend1
